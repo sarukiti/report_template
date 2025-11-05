@@ -9,6 +9,7 @@
 ) = {
   set page(
     margin: (top: 3cm, bottom: 3cm, left: 3cm, right: 3cm),
+    footer: none,
   )
   set text(font: ("Arial", "YuGothic"))
   set underline(offset: 3pt)

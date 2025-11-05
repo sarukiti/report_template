@@ -66,6 +66,8 @@
   author_name: ""
 )
 
+#counter(page).update(1)
+
 // 本文
 
 /*
